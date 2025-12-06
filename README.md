@@ -1,2 +1,2 @@
 # 1st-git
-our 1st workshop
+our 1st git and github workshop
